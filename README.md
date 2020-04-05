@@ -6,6 +6,7 @@
 ## Books
 
 ## Videos
+ * [CelFitTV free access until 1st may 2020](https://www.celfittv.com/)
 
 ## Podcasts
 
