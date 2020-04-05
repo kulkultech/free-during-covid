@@ -55,7 +55,13 @@
   },
   {
     "title": "Atlassian: Free for small teams to achieve big dreams",
-    "url": "https://trello.com/education",
+    "url": "https://www.atlassian.com/software/free",
+    "reason": "",
+    "cat": "software"
+  },
+  {
+    "title": "Headspace: Weathering the storm",
+    "url": "https://www.headspace.com/covid-19",
     "reason": "",
     "cat": "software"
   }

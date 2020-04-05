@@ -25,6 +25,8 @@
  * [Box Business 90-Day Free Trial](https://account.box.com/signup/business?tl=oWgBWV)
  * [1Password: COVID-19 Response - Removing trial limits to help businesses work securely from home](https://blog.1password.com/covid-19-response/)
  * [Free Trello Business Class for Teachers](https://trello.com/education)
+ * [Atlassian: Free for small teams to achieve big dreams](https://www.atlassian.com/software/free)
+ * [Headspace: Weathering the storm](https://www.headspace.com/covid-19)
 
 ## Contributing 
 1. Fork it
