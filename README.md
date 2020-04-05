@@ -32,6 +32,7 @@
  * [Atlassian: Free for small teams to achieve big dreams](https://www.atlassian.com/software/free)
  * [Teachers: Get Kahoot! Premium for free](https://kahoot.com/access-kahoot-premium-for-free/)
  * [Lumen Learning: Mid-Term Transition to Lumen Courseware at No Cost](https://info.lumenlearning.com/transition-spring2020)
+ * [Microsoft Teams for everyone](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
 
 ## Contributing 
 1. Fork it
