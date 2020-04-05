@@ -4,6 +4,7 @@
 ## Mentoring
 
 ## Books
+ * [Free Audible Stories](https://stories.audible.com/start-listen)
 
 ## Videos
  * [CelFitTV free access until 1st may 2020](https://www.celfittv.com/)
