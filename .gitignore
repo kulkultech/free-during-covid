@@ -7,3 +7,6 @@ node_modules/
 test-output/
 package-lock.json
 yarn.lock
+
+# IDE
+.idea
