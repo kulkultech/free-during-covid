@@ -82,5 +82,11 @@
     "url": "https://archive.org/details/nationalemergencylibrary",
     "reason": "",
     "cat": "book"
+  },
+  {
+    "title": "Cambridge University Press Textbooks",
+    "url": "https://www.cambridge.org/core/what-we-publish/textbooks#",
+    "reason": "",
+    "cat": "book"
   }
 ]
