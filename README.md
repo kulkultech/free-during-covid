@@ -13,6 +13,9 @@
 
 ## Newsletters
 
+## Courses
+ * [Coursera Together: Free online learning during COVID-19](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/)
+
 ## Contributing 
 1. Fork it
 2. Run `npm install`
