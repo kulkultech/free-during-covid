@@ -38,7 +38,7 @@ const schema = {
     },
     category: {
       description: `Category (${categories})`,
-      pattern: /^(book|video|podcast|article|newsletter|mentoring|course)/,
+      pattern: /^(book|video|podcast|article|newsletter|mentoring|course|software)/,
       message: 'Must be of the valid categories',
       required: true
     }
