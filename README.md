@@ -10,6 +10,7 @@
  * [CelFitTV free access until 1st may 2020](https://www.celfittv.com/)
 
 ## Podcasts
+ * [Headspace: Weathering the storm](https://www.headspace.com/covid-19)
 
 ## Articles
 
@@ -26,7 +27,6 @@
  * [1Password: COVID-19 Response - Removing trial limits to help businesses work securely from home](https://blog.1password.com/covid-19-response/)
  * [Free Trello Business Class for Teachers](https://trello.com/education)
  * [Atlassian: Free for small teams to achieve big dreams](https://www.atlassian.com/software/free)
- * [Headspace: Weathering the storm](https://www.headspace.com/covid-19)
 
 ## Contributing 
 1. Fork it
