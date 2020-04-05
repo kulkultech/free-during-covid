@@ -27,6 +27,7 @@
  * [1Password: COVID-19 Response - Removing trial limits to help businesses work securely from home](https://blog.1password.com/covid-19-response/)
  * [Free Trello Business Class for Teachers](https://trello.com/education)
  * [Atlassian: Free for small teams to achieve big dreams](https://www.atlassian.com/software/free)
+ * [Teachers: Get Kahoot! Premium for free](https://kahoot.com/access-kahoot-premium-for-free/)
 
 ## Contributing 
 1. Fork it
