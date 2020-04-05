@@ -23,6 +23,7 @@
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
  * [Tandem is free for the next few months](https://tandem.chat/coronavirus)
  * [Box Business 90-Day Free Trial](https://account.box.com/signup/business?tl=oWgBWV)
+ * [COVID-19 Response - Removing trial limits to help businesses work securely from home](https://blog.1password.com/covid-19-response/)
 
 ## Contributing 
 1. Fork it
