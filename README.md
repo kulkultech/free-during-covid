@@ -1,5 +1,5 @@
-# <Placeholder> Resources 
- A list of <Placeholder> resource links.
+# Free During COVID-19 Resources 
+ A list of Free During COVID-19 resource links.
 
 ## Mentoring
 
