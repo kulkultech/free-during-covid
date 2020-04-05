@@ -16,6 +16,7 @@
 
 ## Courses
  * [Coursera Together: Free online learning during COVID-19](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/)
+ * [Pluralsight Free April Month](https://www.pluralsight.com/offer/2020/free-april-month)
 
 ## Softwares
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
