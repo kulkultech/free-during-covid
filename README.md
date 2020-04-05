@@ -18,6 +18,7 @@
 
 ## Softwares
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
+ * [Tandem is free for the next few months](https://tandem.chat/coronavirus)
 
 ## Contributing 
 1. Fork it
