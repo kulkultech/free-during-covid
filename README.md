@@ -33,6 +33,7 @@
  * [Teachers: Get Kahoot! Premium for free](https://kahoot.com/access-kahoot-premium-for-free/)
  * [Lumen Learning: Mid-Term Transition to Lumen Courseware at No Cost](https://info.lumenlearning.com/transition-spring2020)
  * [Microsoft Teams for everyone](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
+ * [We’re Giving Away Drawful 2 for Free for Three Weeks - Jackbox Games](https://www.jackboxgames.com/were-giving-away-drawful-2-for-free-for-three-weeks/)
 
 ## Contributing 
 1. Fork it
