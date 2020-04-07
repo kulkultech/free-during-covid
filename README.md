@@ -22,6 +22,7 @@
  * [Coursera Together: Free online learning during COVID-19](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/)
  * [Pluralsight Free April Month](https://www.pluralsight.com/offer/2020/free-april-month)
  * [Preply: Free language learning for school kids](https://preply.com/en/free-language-learning-for-school-kids)
+ * [Udacity: One Free Month Access to Nanodegree Programs - US & Europe](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html)
 
 ## Softwares
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
