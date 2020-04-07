@@ -23,6 +23,7 @@
  * [Pluralsight Free April Month](https://www.pluralsight.com/offer/2020/free-april-month)
  * [Preply: Free language learning for school kids](https://preply.com/en/free-language-learning-for-school-kids)
  * [Udacity: One Free Month Access to Nanodegree Programs - US & Europe](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html)
+ * [Free LinkedIn Learning Courses to Help You Navigate the Impact of COVID-19](https://learning.linkedin.com/blog/linkedin-learning-resources/free-linkedin-learning-resources-to-help-you-navigate-the-impact)
 
 ## Softwares
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
