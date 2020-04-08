@@ -26,6 +26,7 @@
  * [Free LinkedIn Learning Courses to Help You Navigate the Impact of COVID-19](https://learning.linkedin.com/blog/linkedin-learning-resources/free-linkedin-learning-resources-to-help-you-navigate-the-impact)
  * [Mango Classroom offering freely available to all schools facing closures through the end of the 2019-2020 school year.](https://mangolanguages.com/info/covid19-response.cfm)
  * [Free access to Rosetta Stone for Students for the next three months](https://www.rosettastone.com/freeforstudents/)
+ * [Babbel: This spring, students learn for free](https://try.babbel.com/student-discount/)
 
 ## Softwares
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
