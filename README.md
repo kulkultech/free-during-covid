@@ -24,6 +24,7 @@
  * [Preply: Free language learning for school kids](https://preply.com/en/free-language-learning-for-school-kids)
  * [Udacity: One Free Month Access to Nanodegree Programs - US & Europe](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html)
  * [Free LinkedIn Learning Courses to Help You Navigate the Impact of COVID-19](https://learning.linkedin.com/blog/linkedin-learning-resources/free-linkedin-learning-resources-to-help-you-navigate-the-impact)
+ * [Mango Classroom offering freely available to all schools facing closures through the end of the 2019-2020 school year.](https://mangolanguages.com/info/covid19-response.cfm)
 
 ## Softwares
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
