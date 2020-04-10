@@ -41,6 +41,7 @@
  * [Microsoft Teams for everyone](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
  * [We’re Giving Away Drawful 2 for Free for Three Weeks - Jackbox Games](https://www.jackboxgames.com/were-giving-away-drawful-2-for-free-for-three-weeks/)
  * [Free Airtable Pro plans for students](https://blog.airtable.com/airtables-support-for-covid-19-response-efforts/)
+ * [School closing due to COVID-19? Join Free for access to Listenwise PREMIUM for 90 days!](https://listenwise.com/)
 
 ## Contributing 
 1. Fork it
