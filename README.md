@@ -28,6 +28,7 @@
  * [Free access to Rosetta Stone for Students for the next three months](https://www.rosettastone.com/freeforstudents/)
  * [Babbel: This spring, students learn for free](https://try.babbel.com/student-discount/)
  * [TheFableCottage.com free during lockdowns](https://www.thefablecottage.com/)
+ * [30 Days of Free Online Google Cloud Training](https://inthecloud.withgoogle.com/training-discount/register.html?utm_source=linkedin&utm_medium=unpaid-social&utm_campaign=FY20-Q1-global-trainingandenablement-operational-other-training_discount&utm_content=training-discount)
 
 ## Softwares
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
