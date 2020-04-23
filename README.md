@@ -29,6 +29,7 @@
  * [Babbel: This spring, students learn for free](https://try.babbel.com/student-discount/)
  * [TheFableCottage.com free during lockdowns](https://www.thefablecottage.com/)
  * [30 Days of Free Online Google Cloud Training](https://inthecloud.withgoogle.com/training-discount/register.html?utm_source=linkedin&utm_medium=unpaid-social&utm_campaign=FY20-Q1-global-trainingandenablement-operational-other-training_discount&utm_content=training-discount)
+ * [Learn Flutter in this online class by the App Brewery. If you sign up by July 8, it's free.](https://www.appbrewery.co/p/intro-to-flutter?utm_source=google&utm_medium=website%20banner&utm_campaign=app_brewery)
 
 ## Softwares
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
