@@ -44,6 +44,7 @@
  * [We’re Giving Away Drawful 2 for Free for Three Weeks - Jackbox Games](https://www.jackboxgames.com/were-giving-away-drawful-2-for-free-for-three-weeks/)
  * [Free Airtable Pro plans for students](https://blog.airtable.com/airtables-support-for-covid-19-response-efforts/)
  * [School closing due to COVID-19? Join Free for access to Listenwise PREMIUM for 90 days!](https://listenwise.com/)
+ * [Free Zoom Integration on Calendly](https://blog.calendly.com/meeting-integration-update/)
 
 ## Contributing 
 1. Fork it
