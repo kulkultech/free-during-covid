@@ -36,7 +36,7 @@
  * [Free Fridays by General Assembly: Our Favorite Online Workshops, Now Open to Everyone](https://generalassemb.ly/blog/free-fridays/) - High Quality General Assembly Workshops
  * [Here Are 115 Coursera Certificates You Can Now Earn for Free (During the Coronavirus Pandemic)](https://www.freecodecamp.org/news/coronavirus-coursera-free-certificate/) - Curated list
  * [All the free things you can do online during the coronavirus pandemic](https://globalnews.ca/news/6842959/free-things-online-coronavirus/) - Curated list
- * [Learn to Program by Creating Working Applications](https://www.jetbrains.com/academy/) - High quality education from the top IDE developer in the world
+ * [Jetbrains Academy - Learn to Program by Creating Working Applications](https://www.jetbrains.com/academy/) - High quality education from the top IDE developer in the world
 
 ## Softwares
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
