@@ -178,5 +178,29 @@
     "url": "https://generalassemb.ly/blog/free-fridays/",
     "reason": "High Quality General Assembly Workshops",
     "cat": "course"
+  },
+  {
+    "title": "Here Are 115 Coursera Certificates You Can Now Earn for Free (During the Coronavirus Pandemic)",
+    "url": "https://www.freecodecamp.org/news/coronavirus-coursera-free-certificate/",
+    "reason": "Curated list",
+    "cat": "course"
+  },
+  {
+    "title": "198 Free Tools to Help You Through the Coronavirus Pandemic",
+    "url": "https://www.entrepreneur.com/article/347840",
+    "reason": "Curated list",
+    "cat": "software"
+  },
+  {
+    "title": "All the free things you can do online during the coronavirus pandemic",
+    "url": "https://globalnews.ca/news/6842959/free-things-online-coronavirus/",
+    "reason": "Curated list",
+    "cat": "course"
+  },
+  {
+    "title": "Learn to Program by Creating Working Applications",
+    "url": "https://www.jetbrains.com/academy/",
+    "reason": "High quality education from the top IDE developer in the world",
+    "cat": "course"
   }
 ]

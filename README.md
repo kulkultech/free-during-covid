@@ -34,6 +34,9 @@
  * [30 Days of Free Online Google Cloud Training](https://inthecloud.withgoogle.com/training-discount/register.html?utm_source=linkedin&utm_medium=unpaid-social&utm_campaign=FY20-Q1-global-trainingandenablement-operational-other-training_discount&utm_content=training-discount)
  * [Learn Flutter in this online class by the App Brewery. If you sign up by July 8, it's free.](https://www.appbrewery.co/p/intro-to-flutter?utm_source=google&utm_medium=website%20banner&utm_campaign=app_brewery)
  * [Free Fridays by General Assembly: Our Favorite Online Workshops, Now Open to Everyone](https://generalassemb.ly/blog/free-fridays/) - High Quality General Assembly Workshops
+ * [Here Are 115 Coursera Certificates You Can Now Earn for Free (During the Coronavirus Pandemic)](https://www.freecodecamp.org/news/coronavirus-coursera-free-certificate/) - Curated list
+ * [All the free things you can do online during the coronavirus pandemic](https://globalnews.ca/news/6842959/free-things-online-coronavirus/) - Curated list
+ * [Learn to Program by Creating Working Applications](https://www.jetbrains.com/academy/) - High quality education from the top IDE developer in the world
 
 ## Softwares
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
@@ -49,6 +52,7 @@
  * [Free Airtable Pro plans for students](https://blog.airtable.com/airtables-support-for-covid-19-response-efforts/)
  * [School closing due to COVID-19? Join Free for access to Listenwise PREMIUM for 90 days!](https://listenwise.com/)
  * [Free Zoom Integration on Calendly](https://blog.calendly.com/meeting-integration-update/)
+ * [198 Free Tools to Help You Through the Coronavirus Pandemic](https://www.entrepreneur.com/article/347840) - Curated list
 
 ## Contributing 
 1. Fork it
