@@ -202,5 +202,11 @@
     "url": "https://www.jetbrains.com/academy/",
     "reason": "High quality education from the top IDE developer in the world",
     "cat": "course"
+  },
+  {
+    "title": "Coursera provides free access to their course for university student not only 115 courses",
+    "url": "https://www.coursera.org/for-university-and-college-students",
+    "reason": "University and college students, learn for free with Coursera",
+    "cat": "course"
   }
 ]
