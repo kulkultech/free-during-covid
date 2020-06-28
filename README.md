@@ -38,6 +38,7 @@
  * [All the free things you can do online during the coronavirus pandemic](https://globalnews.ca/news/6842959/free-things-online-coronavirus/) - Curated list
  * [Jetbrains Academy - Learn to Program by Creating Working Applications](https://www.jetbrains.com/academy/) - High quality education from the top IDE developer in the world
  * [Coursera provides free access to their course for university student not only 115 courses](https://www.coursera.org/for-university-and-college-students) - University and college students, learn for free with Coursera
+ * [Free Online Learning Due to Coronavirus (Updated Continuously)](https://www.classcentral.com/report/free-online-learning-coronavirus/)
 
 ## Softwares
  * [Loom Unlimited Recording for Free Plan](https://www.loom.com/blog/coronavirus-response)
